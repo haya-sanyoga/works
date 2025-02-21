@@ -43,17 +43,6 @@ body {
 }
 
 .header ul {
-	width: 30rem;
-	margin: auto;
-	justify-content: center;
-	align-items: center;
-	display: flex;
-	gap: 8rem;
-
-}
-
-.header ul {
-	width: 30rem;
 	margin: auto;
 	justify-content: center;
 	align-items: center;
@@ -62,16 +51,15 @@ body {
 
 }
 
+
+
 .header ul li {
 	list-style: none;
 	height: 100%;
-	width: 20%;
+
 
 }
 
-.header ul li a {
-	width: 40%;
-}
 
 a {
 	text-decoration: none;
