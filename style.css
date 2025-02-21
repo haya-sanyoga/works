@@ -57,8 +57,9 @@ body {
 	list-style: none;
 	height: 100%;
 
-
 }
+
+
 
 
 a {
@@ -184,7 +185,6 @@ p {
 }
 
 @media (max-width:767px) {
-
 	.about {
 		display: flex;
 		gap: 5rem;
@@ -369,4 +369,15 @@ tbody {
 		font-size: 1.4rem;
 
 	}
+}
+
+.contact-form {
+	background-color: #fffaf0;
+	height: 800px;
+	border: dotted #ccc 3px;
+	border-radius: 20px;
+	padding: 15px;
+	width: 100%;
+	max-width: 600px;
+	margin: auto;
 }
