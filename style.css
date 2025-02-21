@@ -217,13 +217,6 @@ p {
 
 }
 
-@media (max-width:767px) {
-	.profile p {
-	font-size: 2rem;
-
-}
-}
-
 	
 
 .about img 
